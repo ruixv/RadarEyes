@@ -1,10 +1,12 @@
 # RadarEyes
 
-> mmWave point cloud dataset
+> mmWave (millimeter-wave) pointcloud dataset and preprocessing code
+
+RadarEyes is a unique dataset sourced from the paper ["DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud"](https://arxiv.org/abs/2309.15374).
 
 ## Dataset Introduction
 
-RadarEyes is a large-scale dataset focusing on indoor mmWave (millimeter-wave) radar point clouds. It consists of aligned horizontally placed mmWave radar, vertically placed mmWave radar, LiDAR, and tracking cameras, capturing 120,000 frames of incoherent mmWave radar and 1,200,000 frames of coherent mmWave radar, along with corresponding poses and LiDAR point clouds.
+RadarEyes is a large-scale dataset focusing on indoor mmWave radar pointcloud. It consists of aligned horizontally placed mmWave radar, vertically placed mmWave radar, LiDAR, and tracking cameras, capturing **120,000** frames of incoherent mmWave radar and **1,200,000** frames of coherent mmWave radar, along with corresponding poses and LiDAR pointcloud.
 
 ## Dataset Implementation
 
@@ -43,7 +45,7 @@ The paper associated with this dataset is currently under review. Therefore, onl
 
 To obtain the dataset, please sign the [agreement](datasetAgreement.pdf), scan and send it to gengruixu@mail.ustc.edu.cn. You will receive a notification email which includes the download links of the partial dataset in two days. The complete dataset will be made public once the paper is accepted.
 
-### Data Preprocessing
+### Preprocessing Code
 
 We provide Python scripts for data handling, including data loading, preprocessing, and visualization. These scripts are bundled with the part of the dataset provided via the download links in the confirmation email.
 
