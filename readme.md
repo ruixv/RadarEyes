@@ -5,9 +5,8 @@
 <!-- RadarEyes is a unique dataset sourced from the paper ["DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud"](https://arxiv.org/abs/2309.15374).-->
 
 - RadarEyes is a large-scale dataset focusing on indoor mmWave radar pointcloud.
-- Collection of works using RadarEyes for dataset
-  - **DREAM-PCD**
-  - **DiffRadar**
+- [Paper Link: DREAM-PCD](https://arxiv.org/pdf/2309.15374.pdf)
+
   
 
 ## Dataset Introduction
@@ -70,6 +69,9 @@ Please cite the following paper if this dataset is helpful to your research
 }
 ```
 
+- Collection of works using RadarEyes for dataset
+  - **DREAM-PCD**
+  - **DiffRadar**
 
 --- 
 
