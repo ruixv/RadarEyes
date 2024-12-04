@@ -46,9 +46,7 @@ Our sensor platform, as shown above, is built on a remotely controllable vehicle
 
 ## How to access the dataset
 
-The paper associated with this dataset is currently under review. Therefore, only a partial dataset is currently available.
-
-To obtain the dataset, please sign the [agreement](datasetAgreement.pdf), scan and send it to gengruixu@mail.ustc.edu.cn. You will receive a notification email which includes the download links of the partial dataset in two days. The complete dataset will be made public once the paper is accepted.
+To obtain the dataset, please sign the [agreement](datasetAgreement.pdf), scan and send it to gengruixu@mail.ustc.edu.cn. You will receive a notification email which includes the download links of the dataset within two days.
 
 ### Preprocessing Code
 
@@ -62,10 +60,9 @@ Please cite the following paper if this dataset is helpful to your research
 @article{geng2023dreampcd,
   title={DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud},
   author={Geng, Ruixu and Li, Yadong and Zhang, Dongheng and Wu, Jincheng and Gao, Yating and Hu, Yang and Chen, Yan},
-  journal={arXiv preprint arXiv:2309.15374},
+  journal={IEEE Transactions on Image Proceesing},
   year={2023},
-  url={https://arxiv.org/abs/2309.15374},
-  doi={10.48550/arXiv.2309.15374}
+  url={https://arxiv.org/abs/2309.15374}
 }
 ```
 
